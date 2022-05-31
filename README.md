@@ -58,7 +58,7 @@
 
 <h2>Installation</h2>
 
-  URLer Repository requires <a href="https://www.python.org/">Python </a> v3 to run.
+  Repository requires <a href="https://www.python.org/">Python </a> v3 to run.
   
   <h3>Linux</h3>
   
@@ -84,11 +84,9 @@
   For windows, we need python aswell you can download it from here:<br>
   
   
-  * [Python (3.9.2 | 64bit)](https://www.python.org/ftp/python/3.9.2/python-3.9.2.exe)
-  * [Python (3.9.2 | 32bit)](https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe)
+  * [Python (3.9.13 | 64bit)](https://www.python.org/ftp/python/3.9.13/python-3.9.13.exe)
+  * [Python (3.9.13 | 32bit)](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe)
   
-  **How to open the installed Burp Suite Pro?**
-
   <img alt="1. Step" src="https://img.shields.io/badge/Step-1-blueviolet" /> Install Python
   
   <img alt="2. Step" src="https://img.shields.io/badge/Step-2-blueviolet" /> Download Script (ZIP)
